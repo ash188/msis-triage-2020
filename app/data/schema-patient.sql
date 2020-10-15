@@ -1,4 +1,4 @@
-USE msis_triage;
+USE sarawgi;
 
 DROP TABLE IF EXISTS Patient;
 CREATE TABLE Patient (
